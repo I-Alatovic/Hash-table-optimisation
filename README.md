@@ -13,3 +13,5 @@ This repository contains my code (as well as some code written by Stephan Jamies
     - Optimize.java: My solution to the optimisation problem. Writes the output to a text file called results.txt.
     - results.txt: Contains the result of the optimisation process (more details in assignment doc)
     - Assignment_DS4.pdf: Assignment briefing document.
+    - Monitorable.java: Abstract class that is implemented by HashTable.java.
+    - HashTable.java: Abstract class that implements Monitorable.java and is implemented by LPHashTable.java and QPHashTable.java.
