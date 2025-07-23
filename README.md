@@ -15,3 +15,5 @@ This repository contains my code (as well as some code written by Stephan Jamies
     - Assignment_DS4.pdf: Assignment briefing document.
     - Monitorable.java: Abstract class that is implemented by HashTable.java.
     - HashTable.java: Abstract class that implements Monitorable.java and is implemented by LPHashTable.java and QPHashTable.java.
+
+- See Assignment_DS4.pdf for details on the assignment.
