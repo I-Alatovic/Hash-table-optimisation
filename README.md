@@ -1,5 +1,5 @@
 # Hash-table-optimisation
-This repository contains my code (as well as some code written by Stephan Jamieson) and results for a university project.
+This repository contains my code (as well as some code written by Stephan Jamieson) and results for a 2nd year university project.
 
 - This project involved:
     - Implementing linear probing and quadratic probing hash tables by completing skeleton code written by Stephan Jamieson.
