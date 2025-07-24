@@ -17,3 +17,6 @@ This repository contains my code (as well as some code written by Stephan Jamies
     - _HashTable.java_: Abstract class that implements _Monitorable.java_ and is implemented by _LPHashTable.java_ and _QPHashTable.java_.
 
 - See _Assignment_DS4.pdf_ for details on the assignment.
+
+
+NB: This repository is part of a university assignment submitted by Isa Alatovic. Please do not copy this work for academic submissions.
